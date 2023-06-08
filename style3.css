@@ -1,0 +1,21 @@
+footer {
+	background: var(--primary-color);
+	padding: 15px 0;
+	text-align: center;
+	font-family: "Poppins", sans-serif;
+}
+
+footer .footer span {
+	font-size: 17px;
+	font-weight: 400;
+	color: var(--white-color);
+}
+
+footer .footer span a {
+	font-weight: 500;
+	color: var(--white-color);
+}
+
+footer .footer span a:hover {
+	text-decoration: underline;
+}
